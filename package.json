@@ -1,0 +1,17 @@
+{
+  "name": "xest.expressions.javascript",
+  "version": "0.0.1",
+  "description": "Javascript expression parser and validator",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "danderson00",
+  "license": "MIT",
+  "dependencies": {
+    "acorn": "^5.7.1"
+  },
+  "devDependencies": {
+    "jest": "^23.2.0"
+  }
+}
